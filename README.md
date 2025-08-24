@@ -104,4 +104,7 @@ student-management-system/
 
 ## 👨‍💻 Author
 
-*Developed as a Computer Science project for managing school student records.*
+*## Author
+Created by Akshay P M during 12th grade as part of a school computer project.  
+This project demonstrates basic Python programming, MySQL database management.
+Developed as a Computer Science project for managing school student records.*
